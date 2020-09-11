@@ -1,4 +1,4 @@
-[flake9]
+[flake8]
 exclude = 
     migrations,
     __pycache__,
